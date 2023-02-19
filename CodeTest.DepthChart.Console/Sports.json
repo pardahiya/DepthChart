@@ -1,0 +1,8 @@
+﻿{
+  "SportsConfig": {
+    "SportPositionsMappings": {
+      "NFL": [ "QB", "WR", "RB", "TE", "K", "P", "KR", "PR" ],
+      "MLB": [ "SP", "RP", "C", "1B", "2B", "3B", "SS", "LF", "RF", "CF", "DH" ]
+    }
+  }
+}
